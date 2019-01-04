@@ -21,10 +21,18 @@ https://github.com/node-serialport/node-serialport - Node.js package to access s
 
 https://www.albinoblacksheep.com/tutorial/mspaint - MS Paint Tricks
 
+https://dolphin-emu.org/blog/2017/07/30/ubershaders/ - Ubershaders: A Ridiculous Solution to an Impossible Problem
+
+https://www.photopea.com/ - Online photoshop
+
 ## Compression
 http://mattmahoney.net/dc/dce.html - Data Compression Explained. Must-read.
 
 http://prize.hutter1.net/ - Hutter prize competition.
+
+http://ctxmodel.net/ - Context modelling (a way to compress)
+
+https://github.com/Cyan4973/FiniteStateEntropy - FSE (fast coder)
 
 https://encode.ru/forums/2-Data-Compression - Russian forum, lots of good stuff.
 
@@ -35,6 +43,9 @@ http://code4k.blogspot.com/2010/12/crinkler-secrets-4k-intro-executable.html - C
 https://github.com/byronknoll/cmix - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
 
 http://fastcompression.blogspot.com/2013/12/finite-state-entropy-new-breed-of.html - Finite State Entropy - A new breed of entropy coder
+
+https://sites.google.com/site/powturbo/home - LzTurbo - World's fastest compressor
+
 
 ## Games
 
@@ -55,4 +66,9 @@ https://en.wikipedia.org/wiki/Row_hammer - Row hammer
 ## 3D print
 
 https://www.thingiverse.com/thing:1216409 - Apple Watch Charging Dock - Classic Mac
+
+## ML
+
+https://blog.openai.com/unsupervised-sentiment-neuron/ - Unsupervised sentiment neuron
+
 
